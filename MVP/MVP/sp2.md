@@ -17,13 +17,6 @@ Nesta etapa serão utilizados os dados já tratados e organizados para construir
 
 ---
 
-##  Personas / Usuários-Alvo
-
-- **Analista de dados:** precisa organizar e analisar os dados para realizar estudos sobre a estrutura produtiva da região.
-- **Gestor público:** precisa comparar setores, empresas e empregos para compreender melhor a economia local.
-
----
-
 ##  User Stories (Backlog do Sprint)
 
 | RANK | PRIORIDADE | USER STORY | SPRINT |
