@@ -12,15 +12,6 @@ Essa sprint foca em tratamento de dados e classificação deles. Com o tratament
 ---
 
 
-
-##  Personas / Usuários-Alvo
-
-- **Analista de dados:** necessita organizar, tratar e compreender a base RAIS. Sua principal dificuldade está no grande volume de dados, códigos e informações pouco estruturadas.
-
-- **Gestor público:** necessita compreender os dados para realizar análises. Sua principal dificuldade está na presença de códigos que não possuem tradução ou interpretação imediata.
-
----
-
 ##  User Stories (Backlog do Sprint)
 
  | RANK | PRIORIDADE | USER STORY | SPRINT |
@@ -34,18 +25,6 @@ Essa sprint foca em tratamento de dados e classificação deles. Com o tratament
 | 17 | BAIXA | Como analista, quero identificar os códigos de natureza jurídica existentes na base, para compreender os diferentes tipos de organizações representadas. | 1 |
 ---
 
-
-
-## Critérios de Aceitação
-
-- A base deve conter apenas os dados necessários para a análise de São José dos Campos;
-- Registros totalmente duplicados devem ser identificados e tratados;
-- As principais colunas utilizadas no projeto devem estar organizadas;
-- Os códigos utilizados na base devem possuir explicações ou legendas quando necessário;
-- A base final deve estar estruturada para utilização nas próximas etapas do projeto;
-- Os dados originais não devem ser alterados ou perdidos durante o processo de tratamento.
-
----
 
 ## Próximos Passos
 
