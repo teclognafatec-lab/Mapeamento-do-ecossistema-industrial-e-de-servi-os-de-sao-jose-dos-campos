@@ -52,14 +52,7 @@ O escopo está limitado ao tratamento, organização, classificação e compreen
 
 ##  User Stories (Backlog do MVP)
 
-| ID | User Story | Prioridade |
-|----|------------|------------|
-| US1 | Como analista, quero organizar e tratar os dados da RAIS para poder utilizar apenas as informações relevantes para o projeto. | Alta |
-| US2 | Como analista, quero classificar as atividades econômicas para compreender melhor os dados presentes na base. | Alta |
-| US3 | Como analista, quero identificar e compreender os códigos presentes na base para facilitar a realização das análises. | Alta |
-| US4 | Como gestor público, quero visualizar informações organizadas e acompanhadas de legendas para compreender melhor os dados econômicos do município. | Alta |
-| US5 | Como analista, quero ter uma base padronizada e organizada para facilitar sua utilização nas próximas etapas do projeto. | Média |
-
+ 
 ---
 
 ##  Sprint(s) Relacionadas
