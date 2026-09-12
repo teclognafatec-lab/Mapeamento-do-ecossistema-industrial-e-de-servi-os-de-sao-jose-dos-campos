@@ -2,31 +2,14 @@
 
 ## 🎯 Objetivo do Sprint
 
-O terceiro Sprint terá como objetivo consolidar os dados e análises desenvolvidos nas entregas anteriores em uma plataforma visual, integrada e intuitiva.
+Essa sprint tem como objetivo a consolidação dos dados processados nas últimas duas etapas em uma plataforma visual e intuitiva. Essa plataforma traz as principais informações sobre as atividades econômicas de São José dos Campos em forma de ferramentas visuais como gráficos e mapas, tornando a consulta prática e acessível.
 
-A proposta será reunir gráficos, mapas, indicadores e filtros em um dashboard, facilitando a consulta das informações sobre o ecossistema industrial e de serviços de São José dos Campos.
-
----
-
-##  Descrição da Solução
-
-Nesta etapa será desenvolvida a versão final da solução visual do projeto.
-
-### Funcionalidades previstas
-
-- Dashboard no Power BI;
-- Gráficos integrados;
-- Mapas interativos;
-- Indicadores econômicos;
-- Filtros por setor ou atividade econômica;
-- Navegação entre diferentes visualizações;
-- Exibição das fontes dos dados.
-
-### Limitações
-
-Este Sprint ainda não foi iniciado, portanto o formato final do dashboard poderá sofrer alterações durante o desenvolvimento.
+| Usuário-alvo | Necessidade principal | Dor principal |
+|---|---|---|
+| Gestor público/usuário final | Consultar informações de forma visual, integrada e intuitiva | Informações fragmentadas e dificuldade para interpretar os resultados |
 
 ---
+
 
 ##  Personas / Usuários-Alvo
 
@@ -37,7 +20,14 @@ Este Sprint ainda não foi iniciado, portanto o formato final do dashboard poder
 
 ##  User Stories (Backlog do Sprint)
 
-
+| RANK | PRIORIDADE | USER STORY | SPRINT |
+|------|------------|------------|--------|
+| 6 | ALTA | Como gestor público, quero visualizar gráficos de diferentes setores produtivos, para identificar a participação de tais na economia regional. | 3 |
+| 7 | ALTA | Como gestor público, quero visualizar a quantidade de empregos por segmento industrial, para identificar quais atividades possuem maior impacto sobre o mercado de trabalho. | 3 |
+| 8 | MÉDIA | Como gestor público, quero visualizar os principais indicadores econômicos em um único painel, para facilitar o acompanhamento da atividade industrial e econômica da cidade. | 3 |
+| 13 | MÉDIA | Como gestor público, quero filtrar os indicadores do painel por atividade econômica, para analisar segmentos específicos conforme minha necessidade. | 3 |
+| 19 | BAIXA | Como gestor público, quero navegar entre diferentes visões dos dados no dashboard, para consultar informações de forma organizada. | 3 |
+| 20 | BAIXA | Como usuário, quero visualizar títulos, legendas e unidades de medida nos gráficos, para interpretar corretamente as informações apresentadas. | 3 |
 
 ---
 
@@ -50,17 +40,6 @@ Este Sprint ainda não foi iniciado, portanto o formato final do dashboard poder
 - A navegação deve ser simples e organizada;
 - As fontes dos dados devem estar identificadas;
 - As informações devem ser apresentadas de forma clara e integrada.
-
----
-
-##  Métricas de Validação
-
-- Funcionamento dos filtros;
-- Quantidade de indicadores disponíveis;
-- Quantidade de visualizações integradas;
-- Clareza das informações;
-- Facilidade de navegação;
-- Feedback do cliente e dos usuários.
 
 ---
 
