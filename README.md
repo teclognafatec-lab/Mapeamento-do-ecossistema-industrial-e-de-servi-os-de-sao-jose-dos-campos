@@ -19,10 +19,10 @@ Mapeamento do ecossistema industrial e de serviços de São José dos Campos com
 | Função        | Nome    | LinkedIn | GitHub |
 | :-----------: | :------ | :------- | :----- |
 | Product Owner | Julia Mathias | [LinkedIn Badge](http://www.linkedin.com/in/julia-mathias-50ab53261) | [GitHub](https://github.com/juliamths) |
-| Scrum Master  | Caio Silva | [LinkedIn](LINK_AQUI) | [GitHub](LINK_AQUI) |
+| Scrum Master  | Caio Silva | [LinkedIn]( A Preencher) | [GitHub]( A Preencher) |
 | Team Member   | Isabela Karina | [LinkedIn](https://www.linkedin.com/in/isabela-karina-da-silva-pereira-de-carvalho-abb7302ba/) | [GitHub](https://github.com/iswabwwwla) |
-| Team Member   |Enzo Ferracioli | [LinkedIn]() | [GitHub](https://github.com/EnzoFerracioli) |
-| Team Member   | Isabel Domanski | [LinkedIn](https://www.linkedin.com/in/isabel-domanski-222067420/) | [GitHub](LINK_AQUI) |
+| Team Member   |Enzo Ferracioli | [LinkedIn]( A Preencher) | [GitHub](https://github.com/EnzoFerracioli) |
+| Team Member   | Isabel Domanski | [LinkedIn](https://www.linkedin.com/in/isabel-domanski-222067420/) | [GitHub]( A Preencher) |
 | Team Member   | Matheus Lopes | [LinkedIn](https://www.linkedin.com/in/matheuszin-undefined-3785a8414/) | [GitHub](https://github.com/Matheusxxx477) |
 | Team Member   | Thais Ambrósio | [LinkedIn](https://www.linkedin.com/in/thais-ambr%C3%B3sio-3a3a581aa/) | [GitHub](https://github.com/thaishelenaambrosio1985-dev) |
 
