@@ -37,21 +37,10 @@ Este Sprint ainda não foi iniciado, portanto o formato final do dashboard poder
 
 ##  User Stories (Backlog do Sprint)
 
----
 
-##  Sprint(s) Relacionadas
-
-| RANK | PRIORIDADE | USER STORY | SPRINT |
-|------|------------|------------|--------|
-| 6 | ALTA | Como gestor público, quero visualizar gráficos de diferentes setores produtivos, para identificar a participação de tais na economia regional. | 3 |
-| 7 | ALTA | Como gestor público, quero visualizar a quantidade de empregos por segmento industrial, para identificar quais atividades possuem maior impacto sobre o mercado de trabalho. | 3 |
-| 8 | MÉDIA | Como gestor público, quero visualizar os principais indicadores econômicos em um único painel, para facilitar o acompanhamento da atividade industrial e econômica da cidade. | 3 |
-| 13 | MÉDIA | Como gestor público, quero filtrar os indicadores do painel por atividade econômica, para analisar segmentos específicos conforme minha necessidade. | 3 |
-| 19 | BAIXA | Como gestor público, quero navegar entre diferentes visões dos dados no dashboard, para consultar informações de forma organizada. | 3 |
-| 20 | BAIXA | Como usuário, quero visualizar títulos, legendas e unidades de medida nos gráficos, para interpretar corretamente as informações apresentadas. | 3 |
-| 21 | BAIXA | Como gestor público, quero consultar a fonte dos dados apresentados no painel, para verificar a origem das informações utilizadas nas análises. | 3 |
 
 ---
+
 
 ##  Critérios de Aceitação
 
