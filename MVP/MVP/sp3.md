@@ -1,4 +1,4 @@
-#  MVP 3 - TecLog
+# Sprint 3 - TecLog
 
 ## 🎯 Objetivo do Sprint
 
