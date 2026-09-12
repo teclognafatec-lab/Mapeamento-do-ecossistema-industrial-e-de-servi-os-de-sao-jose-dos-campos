@@ -1,4 +1,7 @@
-# Teclog
+<img width="430" height="428" alt="image" src="https://github.com/user-attachments/assets/72946d1f-617b-4288-8e62-9ce46a2a7f4d" />
+
+# Mapeamento do Ecossistema Industrial e de Serviços da Região de São José dos Campos - Teclog
+
 
 # Índice
 * [Objetivo do Projeto](#objetivo-do-projeto)
