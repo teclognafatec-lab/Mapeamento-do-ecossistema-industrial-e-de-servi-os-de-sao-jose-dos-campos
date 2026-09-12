@@ -1,46 +1,17 @@
-#  MVP 1 - TecLog
+#  Sprint 1 - TecLog
 
-## 🎯 Objetivo do Sprint
+##  Objetivo do Sprint
 
-O primeiro MVP tem como objetivo realizar o tratamento, a organização e a classificação dos dados públicos utilizados no projeto, principalmente os dados da RAIS relacionados a São José dos Campos.
+Essa sprint foca em tratamento de dados e classificação deles. Com o tratamento feito, a equipe então passa para a fase de classificação de informações. Com essas informações, é então criado uma análise básica junto de legendas que ajudem a entender esses dados. A sprint pretende entregar uma visão mais geral da resolução do problema principal.
 
-Nesta etapa, buscamos transformar uma base extensa e pouco estruturada em informações mais claras e compreensíveis, permitindo uma primeira visão sobre o ecossistema industrial e de serviços do município.
-
-### Problema que resolve
-A base RAIS possui grande volume de informações, códigos e dados que precisam ser tratados e organizados antes de serem utilizados nas análises.
-
-### Hipótese a ser validada
-É possível organizar e classificar os dados públicos da RAIS de maneira que eles possam ser utilizados posteriormente para análises econômicas e visualizações.
-
-### Valor entregue
-Uma base de dados tratada, organizada e com informações mais compreensíveis para analistas e gestores públicos.
+| Usuário-alvo | Necessidade principal | Dor principal |
+|---|---|---|
+| Analista de dados | Organizar, tratar e compreender a base RAIS | Dados extensos, códigos e informações pouco estruturadas |
+| Gestor público | Compreender os dados para poder analisar as informações. | Dados entregues em códigos sem tradução fácil |
 
 ---
 
-##  Descrição da Solução
 
-Nesta etapa será realizada a preparação inicial da base de dados utilizada no projeto.
-
-### Funcionalidades principais incluídas
-
-- Filtragem dos dados referentes a São José dos Campos;
-- Tratamento e organização da base RAIS;
-- Identificação e remoção de registros duplicados;
-- Seleção das informações relevantes para o projeto;
-- Classificação dos dados;
-- Identificação dos códigos presentes na base;
-- Criação de legendas para facilitar a interpretação das informações;
-- Preparação da base para as próximas etapas de análise.
-
-### Limitações conhecidas
-
-Neste MVP ainda não serão disponibilizados mapas e dashboards completos. O foco será a preparação e compreensão dos dados.
-
-### Escopo
-
-O escopo está limitado ao tratamento, organização, classificação e compreensão inicial dos dados necessários para o projeto.
-
----
 
 ##  Personas / Usuários-Alvo
 
@@ -50,18 +21,20 @@ O escopo está limitado ao tratamento, organização, classificação e compreen
 
 ---
 
-##  User Stories (Backlog do MVP)
+##  User Stories (Backlog do Sprint)
 
- 
+ | RANK | PRIORIDADE | USER STORY | SPRINT |
+|------|------------|------------|--------|
+| 1 | ALTA | Como analista, quero visualizar os dados RAIS, para poder extrair informações sobre as atividades econômicas de São José dos Campos | 1 |
+| 2 | ALTA | Como analista, quero classificar as atividades econômicas, para identificar as presentes na região. | 1 |
+| 3 | ALTA | Como gestor público, quero visualizar a quantidade de empresas por atividade econômica, para identificar quais segmentos possuem maior representatividade no município. | 1 |
+| 9 | MÉDIA | Como gestor público, quero poder identificar os diferentes tamanhos e tipos de estabelecimento presentes na base, para analisar a composição do perfil empresarial do município. | 1 |
+| 10 | MÉDIA | Como analista, quero relacionar os códigos CNAE da base às suas respectivas descrições, para facilitar a interpretação das atividades econômicas. | 1 |
+| 16 | BAIXA | Como analista, quero ter uma lista de legendas explicando os códigos presentes no banco de dados, para poder montar os gráficos com fluidez. | 1 |
+| 17 | BAIXA | Como analista, quero identificar os códigos de natureza jurídica existentes na base, para compreender os diferentes tipos de organizações representadas. | 1 |
 ---
 
-##  Sprint(s) Relacionadas
 
-| Sprint | Entregas Principais | Status |
-|--------|---------------------|--------|
-| 01 | Tratamento, organização, classificação e interpretação inicial dos dados | Em desenvolvimento |
-
----
 
 ## Critérios de Aceitação
 
@@ -71,17 +44,6 @@ O escopo está limitado ao tratamento, organização, classificação e compreen
 - Os códigos utilizados na base devem possuir explicações ou legendas quando necessário;
 - A base final deve estar estruturada para utilização nas próximas etapas do projeto;
 - Os dados originais não devem ser alterados ou perdidos durante o processo de tratamento.
-
----
-
-## 📈 Métricas de Validação
-
-- Quantidade de registros tratados;
-- Quantidade de registros duplicados identificados;
-- Quantidade de registros mantidos após a limpeza;
-- Quantidade de variáveis relevantes selecionadas;
-- Validação da compreensão dos dados pela equipe;
-- Verificação da estrutura final da base.
 
 ---
 
