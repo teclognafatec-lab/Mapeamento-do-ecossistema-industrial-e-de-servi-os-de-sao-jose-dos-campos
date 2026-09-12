@@ -36,13 +36,7 @@ Este MVP ainda não foi iniciado, portanto as funcionalidades poderão sofrer aj
 
 ##  User Stories (Backlog do MVP)
 
-| ID | User Story | Prioridade |
-|----|------------|------------|
-| US1 | Como analista, quero consultar os dados dos setores econômicos para realizar análises sobre a estrutura produtiva do município. | Alta |
-| US2 | Como gestor público, quero visualizar os principais setores industriais e de serviços para identificar quais possuem maior presença na cidade. | Alta |
-| US3 | Como gestor público, quero comparar a quantidade de empresas entre os setores para identificar as atividades com maior concentração. | Alta |
-| US4 | Como gestor público, quero visualizar a quantidade de empregos por setor para compreender o impacto das atividades no mercado de trabalho. | Alta |
-| US5 | Como gestor público, quero visualizar a distribuição das atividades econômicas no município para compreender sua concentração territorial. | Alta |
+
 
 ---
 
