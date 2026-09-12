@@ -1,7 +1,7 @@
 <img src="https://github.com/user-attachments/assets/bb70361b-ee64-4bf7-bd8a-0ae5452b05fc" alt="TecLog" width="100%">
 
 
-# Mapeamento do Ecossistema Industrial e de Serviços da Região de São José dos Campos  
+# Teclog
 
 
 # Índice
@@ -11,7 +11,7 @@
 * [Registro das Sprints](#Registro-das-Sprints)
 
 # Sobre o Nosso Projeto
-Mapeamento do ecossistema industrial e de serviços de São José dos Campos com dados públicos, Python e Power BI. O projeto analisa setores econômicos, distribuição de empresas e regiões estratégicas, apoiando a identificação de oportunidades para novos negócios. 
+Nosso projeto visa mapear o ecossistema industrial e de atividades econômicas de São José dos Campos com dados públicos RAIS, Python e Power BI. O projeto analisa setores econômicos, distribuição de empresas e regiões estratégicas, apoiando a identificação de oportunidades para novos negócios.
 
 
 # Equipe
