@@ -56,3 +56,12 @@ Mapeamento do ecossistema industrial e de serviços de São José dos Campos com
 | 19 | BAIXA | Como gestor público, quero navegar entre diferentes visões dos dados no dashboard, para consultar informações de forma organizada. | 3 |
 | 20 | BAIXA | Como usuário, quero visualizar títulos, legendas e unidades de medida nos gráficos, para interpretar corretamente as informações apresentadas. | 3 |
 | 21 | BAIXA | Como gestor público, quero consultar a fonte dos dados apresentados no painel, para verificar a origem das informações utilizadas nas análises. | 3 |
+
+# Registro das Sprints
+
+| Sprint            | Previsão | Status  | Histórico        |
+|-------------------|----------|---------|------------------|
+| 01                | 28/09    | a fazer | [MVP](MVP/sp1.md) |
+| 02                | 26/10    | a fazer | [MVP](MVP/sp2.md) |
+| 03                | 23/11    | a fazer | [MVP](MVP/sp3.md) |
+| Feira de Soluções | 03/12    | a fazer | [MVP](#)          |
