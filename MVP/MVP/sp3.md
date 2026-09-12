@@ -8,13 +8,7 @@ Essa sprint tem como objetivo a consolidação dos dados processados nas última
 |---|---|---|
 | Gestor público/usuário final | Consultar informações de forma visual, integrada e intuitiva | Informações fragmentadas e dificuldade para interpretar os resultados |
 
----
 
-
-##  Personas / Usuários-Alvo
-
-- **Gestor público:** precisa consultar informações econômicas de forma integrada e visual.
-- **Usuário final:** precisa interpretar os dados sem trabalhar diretamente com as bases originais.
 
 ---
 
@@ -31,17 +25,6 @@ Essa sprint tem como objetivo a consolidação dos dados processados nas última
 
 ---
 
-
-##  Critérios de Aceitação
-
-- O dashboard deve utilizar os dados tratados nas etapas anteriores;
-- Os gráficos e mapas devem apresentar informações corretas;
-- Os filtros devem funcionar de acordo com a seleção do usuário;
-- A navegação deve ser simples e organizada;
-- As fontes dos dados devem estar identificadas;
-- As informações devem ser apresentadas de forma clara e integrada.
-
----
 
 ##  Próximos Passos
 
