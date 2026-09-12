@@ -2,7 +2,7 @@
 
 ## 🎯 Objetivo do Sprint
 
-O segundo MVP terá como objetivo transformar os dados tratados no MVP 1 em informações visuais, permitindo analisar os principais setores industriais e de serviços de São José dos Campos.
+O segundo Sprint terá como objetivo transformar os dados tratados na Entrega 1 em informações visuais, permitindo analisar os principais setores industriais e de serviços de São José dos Campos.
 
 A proposta desta etapa será desenvolver gráficos e mapas que facilitem a comparação entre atividades econômicas, empresas e empregos presentes no município.
 
@@ -23,7 +23,7 @@ Nesta etapa serão utilizados os dados já tratados e organizados para construir
 
 ### Limitações
 
-Este MVP ainda não foi iniciado, portanto as funcionalidades poderão sofrer ajustes durante o desenvolvimento.
+Este Sprint ainda não foi iniciado, portanto as funcionalidades poderão sofrer ajustes durante o desenvolvimento.
 
 ---
 
@@ -36,7 +36,15 @@ Este MVP ainda não foi iniciado, portanto as funcionalidades poderão sofrer aj
 
 ##  User Stories (Backlog do MVP)
 
-
+| RANK | PRIORIDADE | USER STORY | SPRINT |
+|------|------------|------------|--------|
+| 4 | ALTA | Como gestor público, quero analisar a concentração das atividades econômicas por subsetor do IBGE, para identificar quais grupos produtivos possuem maior presença no município. | 2 |
+| 5 | ALTA | Como gestor público, quero visualizar a distribuição geográfica de empresas por segmento industrial, para identificar a concentração das atividades econômicas na cidade. | 2 |
+| 11 | MÉDIA | Como gestor público, quero comparar a quantidade de empresas e empregos entre os segmentos industriais, para identificar diferenças na relevância econômica das atividades. | 2 |
+| 12 | MÉDIA | Como gestor público, quero comparar a quantidade de empresas entre diferentes atividades econômicas, para identificar os segmentos com maior concentração empresarial. | 2 |
+| 14 | BAIXA | Como gestor público, quero analisar a quantidade de estabelecimentos por tamanho, para identificar a predominância de micro, pequenos, médios e grandes estabelecimentos no município. | 2 |
+| 15 | BAIXA | Como gestor público, quero analisar a distribuição dos empregos de acordo com o tamanho dos estabelecimentos, para avaliar quais portes empresariais concentram mais vínculos. | 2 |
+| 18 | BAIXA | Como analista, quero ter uma planilha com os principais dados sendo utilizados, para garantir um fluxo de trabalho organizado. | 2 |
 
 ---
 
