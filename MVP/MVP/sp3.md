@@ -1,6 +1,6 @@
 #  MVP 3 - TecLog
 
-## 🎯 Objetivo do MVP
+## 🎯 Objetivo do Sprint
 
 O terceiro MVP terá como objetivo consolidar os dados e análises desenvolvidos nos MVPs anteriores em uma plataforma visual, integrada e intuitiva.
 
