@@ -1,5 +1,4 @@
-# Mapeamento do ecossistema industrial e de serviços de sao jose dos campos
-
+# Teclog
 
 # Índice
 * [Objetivo do Projeto](#objetivo-do-projeto)
