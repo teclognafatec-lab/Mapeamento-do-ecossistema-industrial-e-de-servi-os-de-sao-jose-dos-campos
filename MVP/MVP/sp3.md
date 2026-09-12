@@ -37,14 +37,6 @@ Este MVP ainda não foi iniciado, portanto o formato final do dashboard poderá 
 
 ##  User Stories (Backlog do MVP)
 
-| ID | User Story | Prioridade |
-|----|------------|------------|
-| US1 | Como gestor público, quero visualizar os principais indicadores econômicos em um único painel para facilitar a análise das atividades do município. | Alta |
-| US2 | Como gestor público, quero utilizar filtros para consultar setores específicos conforme minha necessidade. | Alta |
-| US3 | Como gestor público, quero navegar entre diferentes visualizações para consultar as informações de forma organizada. | Média |
-| US4 | Como usuário, quero visualizar gráficos e mapas de forma clara para compreender os dados apresentados. | Alta |
-| US5 | Como usuário, quero visualizar títulos, legendas e informações explicativas para interpretar corretamente os indicadores. | Média |
-
 ---
 
 ##  Sprint(s) Relacionadas
