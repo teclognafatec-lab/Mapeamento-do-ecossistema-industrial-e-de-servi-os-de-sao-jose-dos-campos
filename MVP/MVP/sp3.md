@@ -2,7 +2,7 @@
 
 ## 🎯 Objetivo do Sprint
 
-O terceiro MVP terá como objetivo consolidar os dados e análises desenvolvidos nos MVPs anteriores em uma plataforma visual, integrada e intuitiva.
+O terceiro Sprint terá como objetivo consolidar os dados e análises desenvolvidos nas entregas anteriores em uma plataforma visual, integrada e intuitiva.
 
 A proposta será reunir gráficos, mapas, indicadores e filtros em um dashboard, facilitando a consulta das informações sobre o ecossistema industrial e de serviços de São José dos Campos.
 
@@ -24,7 +24,7 @@ Nesta etapa será desenvolvida a versão final da solução visual do projeto.
 
 ### Limitações
 
-Este MVP ainda não foi iniciado, portanto o formato final do dashboard poderá sofrer alterações durante o desenvolvimento.
+Este Sprint ainda não foi iniciado, portanto o formato final do dashboard poderá sofrer alterações durante o desenvolvimento.
 
 ---
 
@@ -35,15 +35,21 @@ Este MVP ainda não foi iniciado, portanto o formato final do dashboard poderá 
 
 ---
 
-##  User Stories (Backlog do MVP)
+##  User Stories (Backlog do Sprint)
 
 ---
 
 ##  Sprint(s) Relacionadas
 
-| Sprint | Entregas Principais | Status |
-|--------|---------------------|--------|
-| 03 | Dashboard, gráficos, mapas, indicadores e filtros | A fazer |
+| RANK | PRIORIDADE | USER STORY | SPRINT |
+|------|------------|------------|--------|
+| 6 | ALTA | Como gestor público, quero visualizar gráficos de diferentes setores produtivos, para identificar a participação de tais na economia regional. | 3 |
+| 7 | ALTA | Como gestor público, quero visualizar a quantidade de empregos por segmento industrial, para identificar quais atividades possuem maior impacto sobre o mercado de trabalho. | 3 |
+| 8 | MÉDIA | Como gestor público, quero visualizar os principais indicadores econômicos em um único painel, para facilitar o acompanhamento da atividade industrial e econômica da cidade. | 3 |
+| 13 | MÉDIA | Como gestor público, quero filtrar os indicadores do painel por atividade econômica, para analisar segmentos específicos conforme minha necessidade. | 3 |
+| 19 | BAIXA | Como gestor público, quero navegar entre diferentes visões dos dados no dashboard, para consultar informações de forma organizada. | 3 |
+| 20 | BAIXA | Como usuário, quero visualizar títulos, legendas e unidades de medida nos gráficos, para interpretar corretamente as informações apresentadas. | 3 |
+| 21 | BAIXA | Como gestor público, quero consultar a fonte dos dados apresentados no painel, para verificar a origem das informações utilizadas nas análises. | 3 |
 
 ---
 
