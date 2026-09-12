@@ -50,9 +50,12 @@ Este Sprint ainda não foi iniciado, portanto as funcionalidades poderão sofrer
 
 ##  Sprint(s) Relacionadas
 
-| Sprint | Entregas Principais | Status |
-|--------|---------------------|--------|
-| 02 | Análises, gráficos, mapas e comparação dos setores econômicos | A fazer |
+Essa sprint visa transformar os dados tratados em informações visuais (como gráficos e mapas) que mostrem os principais setores industriais na cidade de São José dos Campos. Com isso, é possível ter uma visão mais focada das atividades econômicas do município, possibilitando uma análise detalhada e pontual.
+
+| Usuário-alvo | Necessidade principal | Dor principal |
+|---|---|---|
+| Analista de dados | Organização e análise de dados | Dados extensos, que facilitam confusão entre categorias |
+| Gestor público | Comparar setores, empresas e empregos | Dificuldade de transformar dados brutos em análises sobre a economia local |
 
 ---
 
