@@ -34,7 +34,7 @@ Este Sprint ainda não foi iniciado, portanto as funcionalidades poderão sofrer
 
 ---
 
-##  User Stories (Backlog do MVP)
+##  User Stories (Backlog do Sprint)
 
 | RANK | PRIORIDADE | USER STORY | SPRINT |
 |------|------------|------------|--------|
