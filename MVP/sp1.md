@@ -4,6 +4,8 @@
 
 Essa sprint foca em tratamento de dados e classificação deles. Com o tratamento feito, a equipe então passa para a fase de classificação de informações. Com essas informações, é então criado uma análise básica junto de legendas que ajudem a entender esses dados. A sprint pretende entregar uma visão mais geral da resolução do problema principal.
 
+---
+
 
 ## Personas/Usuários-alvo
 | Usuário-alvo | Necessidade principal | Dor principal |
