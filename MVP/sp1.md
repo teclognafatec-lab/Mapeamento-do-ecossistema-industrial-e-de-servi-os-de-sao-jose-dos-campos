@@ -1,6 +1,6 @@
 #  MVP 1 - TecLog
 
-## 🎯 Objetivo do MVP
+## 🎯 Objetivo do Sprint
 
 O primeiro MVP tem como objetivo realizar o tratamento, a organização e a classificação dos dados públicos utilizados no projeto, principalmente os dados da RAIS relacionados a São José dos Campos.
 
