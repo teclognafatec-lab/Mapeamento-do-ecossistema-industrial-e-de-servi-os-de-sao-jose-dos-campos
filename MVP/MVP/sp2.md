@@ -4,6 +4,9 @@
 
 Essa sprint visa transformar os dados tratados em informações visuais (como gráficos e mapas) que mostrem os principais setores industriais na cidade de São José dos Campos. Com isso, é possível ter uma visão mais focada das atividades econômicas do município, possibilitando uma análise detalhada e pontual.
 
+---
+## Personas/Usuários-alvo
+
 | Usuário-alvo | Necessidade principal | Dor principal |
 |---|---|---|
 | Analista de dados | Organização e análise de dados | Dados extensos, que facilitam confusão entre categorias |
