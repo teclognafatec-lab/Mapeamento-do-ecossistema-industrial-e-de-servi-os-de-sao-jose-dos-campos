@@ -1,4 +1,4 @@
-<img width="676" height="380" alt="image" src="https://github.com/user-attachments/assets/bb70361b-ee64-4bf7-bd8a-0ae5452b05fc" />
+<img <img src="teclog.png" width="100%"> alt="image" src="https://github.com/user-attachments/assets/bb70361b-ee64-4bf7-bd8a-0ae5452b05fc" />
 
 
 # Mapeamento do Ecossistema Industrial e de Serviços da Região de São José dos Campos - Teclog
