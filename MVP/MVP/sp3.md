@@ -25,6 +25,7 @@ Essa sprint tem como objetivo a consolidação dos dados processados nas última
 | 13 | MÉDIA | Como gestor público, quero filtrar os indicadores do painel por atividade econômica, para analisar segmentos específicos conforme minha necessidade. | 3 |
 | 19 | BAIXA | Como gestor público, quero navegar entre diferentes visões dos dados no dashboard, para consultar informações de forma organizada. | 3 |
 | 20 | BAIXA | Como usuário, quero visualizar títulos, legendas e unidades de medida nos gráficos, para interpretar corretamente as informações apresentadas. | 3 |
+| 21 | BAIXA | Como gestor público, quero consultar a fonte dos dados apresentados no painel, para verificar a origem das informações utilizadas nas análises. | 3 |
 
 ---
 
