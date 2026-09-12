@@ -15,19 +15,6 @@ Essa sprint visa transformar os dados tratados em informações visuais (como gr
 
 Nesta etapa serão utilizados os dados já tratados e organizados para construir análises visuais.
 
-### Funcionalidades previstas
-
-- Criação de gráficos;
-- Criação de mapas;
-- Análise dos principais setores econômicos;
-- Comparação entre empresas e empregos;
-- Visualização da concentração das atividades econômicas;
-- Preparação dos dados para utilização no Power BI.
-
-### Limitações
-
-Este Sprint ainda não foi iniciado, portanto as funcionalidades poderão sofrer ajustes durante o desenvolvimento.
-
 ---
 
 ##  Personas / Usuários-Alvo
@@ -48,27 +35,6 @@ Este Sprint ainda não foi iniciado, portanto as funcionalidades poderão sofrer
 | 14 | BAIXA | Como gestor público, quero analisar a quantidade de estabelecimentos por tamanho, para identificar a predominância de micro, pequenos, médios e grandes estabelecimentos no município. | 2 |
 | 15 | BAIXA | Como gestor público, quero analisar a distribuição dos empregos de acordo com o tamanho dos estabelecimentos, para avaliar quais portes empresariais concentram mais vínculos. | 2 |
 | 18 | BAIXA | Como analista, quero ter uma planilha com os principais dados sendo utilizados, para garantir um fluxo de trabalho organizado. | 2 |
-
----
-
-
-##  Critérios de Aceitação
-
-- Os dados utilizados devem vir da base tratada no MVP 1;
-- Os gráficos devem representar corretamente os dados;
-- Os mapas devem apresentar informações relacionadas a São José dos Campos;
-- Deve ser possível comparar setores, empresas e empregos;
-- As visualizações devem ser claras e compreensíveis.
-
----
-
-##  Métricas de Validação
-
-- Quantidade de gráficos desenvolvidos;
-- Quantidade de setores analisados;
-- Quantidade de indicadores representados;
-- Clareza das informações apresentadas;
-- Capacidade de comparar os setores econômicos.
 
 ---
 
