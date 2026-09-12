@@ -64,6 +64,6 @@ Nosso projeto visa mapear o ecossistema industrial e de atividades econômicas d
 | Sprint            | Previsão | Status  | Histórico        |
 |-------------------|----------|---------|------------------|
 | 01                | 28/09    | a fazer | [MVP](MVP/sp1.md) |
-| 02                | 26/10    | a fazer | [MVP](MVP/sp2.md) |
-| 03                | 23/11    | a fazer | [MVP](MVP/sp3.md) |
+| 02                | 26/10    | a fazer | [MVP](MVP/MVP/sp2.md) |
+| 03                | 23/11    | a fazer | [MVP]((MVP/MVP/sp3.md)) |
 | Feira de Soluções | 03/12    | a fazer | [MVP](#)          |
