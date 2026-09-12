@@ -1,6 +1,6 @@
 #  MVP 2 - TecLog
 
-## 🎯 Objetivo do MVP
+## 🎯 Objetivo do Sprint
 
 O segundo MVP terá como objetivo transformar os dados tratados no MVP 1 em informações visuais, permitindo analisar os principais setores industriais e de serviços de São José dos Campos.
 
