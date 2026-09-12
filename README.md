@@ -18,7 +18,7 @@ Mapeamento do ecossistema industrial e de serviços de São José dos Campos com
 
 | Função        | Nome    | LinkedIn | GitHub |
 | :-----------: | :------ | :------- | :----- |
-| Product Owner | Julia Mathias | [LinkedIn Badge](http://www.linkedin.com/in/julia-mathias-50ab53261) | [GitHub](https://github.com/juliamths) |
+| Product Owner | Julia Mathias | [LinkedIn](http://www.linkedin.com/in/julia-mathias-50ab53261) | [GitHub](https://github.com/juliamths) |
 | Scrum Master  | Caio Silva | [LinkedIn]( A Preencher) | [GitHub]( A Preencher) |
 | Team Member   | Isabela Karina | [LinkedIn](https://www.linkedin.com/in/isabela-karina-da-silva-pereira-de-carvalho-abb7302ba/) | [GitHub](https://github.com/iswabwwwla) |
 | Team Member   |Enzo Ferracioli | [LinkedIn]( A Preencher) | [GitHub](https://github.com/EnzoFerracioli) |
