@@ -8,7 +8,7 @@ A proposta será reunir gráficos, mapas, indicadores e filtros em um dashboard,
 
 ---
 
-## 📝 Descrição da Solução
+##  Descrição da Solução
 
 Nesta etapa será desenvolvida a versão final da solução visual do projeto.
 
