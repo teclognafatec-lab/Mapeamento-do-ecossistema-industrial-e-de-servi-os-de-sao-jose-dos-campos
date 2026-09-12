@@ -4,6 +4,9 @@
 
 Essa sprint tem como objetivo a consolidação dos dados processados nas últimas duas etapas em uma plataforma visual e intuitiva. Essa plataforma traz as principais informações sobre as atividades econômicas de São José dos Campos em forma de ferramentas visuais como gráficos e mapas, tornando a consulta prática e acessível.
 
+---
+
+## Personas/Usuários-alvo
 | Usuário-alvo | Necessidade principal | Dor principal |
 |---|---|---|
 | Gestor público/usuário final | Consultar informações de forma visual, integrada e intuitiva | Informações fragmentadas e dificuldade para interpretar os resultados |
