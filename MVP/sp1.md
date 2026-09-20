@@ -47,7 +47,7 @@ Essa sprint foca em tratamento de dados e classificação deles. Com o tratament
 
 - [Base RAIS limpa e organizada](Dados/DADOS%20RAIS%20LIMPOS.xlsx)
 - [Backlog do projeto](Dados/backlog%20API.xlsx)
-- [Relatório/Manual de uso da base RAIS]()
+- [Relatório e Manual de limpeza da base RAIS](Documentos/Relatório%20e%20Manual%20de%20limpeza%20da%20base%20RAIS.docx))
 - Evidência do processo de limpeza e tratamento dos dados:
 <img width="1079" height="614" alt="image" src="https://github.com/user-attachments/assets/6119368a-2b45-420e-93b1-ba844b520411" />
 <img width="1019" height="282" alt="image" src="https://github.com/user-attachments/assets/a8dae930-356e-4659-baa9-820f2dc901df" />
