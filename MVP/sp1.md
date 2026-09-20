@@ -50,7 +50,9 @@ Essa sprint foca em tratamento de dados e classificação deles. Com o tratament
 - [Relatório e Manual de limpeza da base RAIS](https://github.com/teclognafatec-lab/Mapeamento-do-ecossistema-industrial-e-de-servi-os-de-sao-jose-dos-campos/blob/main/Documentos/Relat%C3%B3rio%20e%20Manual%20de%20limpeza%20da%20base%20RAIS.docx)
 - Evidência do processo de limpeza e tratamento dos dados:
 <img width="1079" height="614" alt="image" src="https://github.com/user-attachments/assets/6119368a-2b45-420e-93b1-ba844b520411" />
-<img width="1019" height="282" alt="image" src="https://github.com/user-attachments/assets/a8dae930-356e-4659-baa9-820f2dc901df" />
+<img width="723" height="506" alt="image" src="https://github.com/user-attachments/assets/56c5da15-fc4b-42a5-8237-76ce8c4a893f" />
+<img width="642" height="172" alt="image" src="https://github.com/user-attachments/assets/a843cf91-8877-4fc7-9d51-1a4097f0a72a" />
+
 
 
 
