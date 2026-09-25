@@ -23,6 +23,7 @@ Essa sprint foca em tratamento de dados e classificação deles. Com o tratament
 | 1 | ALTA | Como analista, quero visualizar os dados RAIS, para poder extrair informações sobre as atividades econômicas de São José dos Campos | 1 |
 | 2 | ALTA | Como analista, quero classificar as atividades econômicas, para identificar as presentes na região. | 1 |
 | 3 | ALTA | Como gestor público, quero visualizar a quantidade de empresas por atividade econômica, para identificar quais segmentos possuem maior representatividade no município. | 1 |
+| 4 | ALTA | Como gestor público, quero analisar a concentração das atividades econômicas por subsetor do IBGE, para identificar quais grupos produtivos possuem maior presença no município. | 1 |
 | 9 | MÉDIA | Como gestor público, quero poder identificar os diferentes tamanhos e tipos de estabelecimento presentes na base, para analisar a composição do perfil empresarial do município. | 1 |
 | 10 | MÉDIA | Como analista, quero relacionar os códigos CNAE da base às suas respectivas descrições, para facilitar a interpretação das atividades econômicas. | 1 |
 | 16 | BAIXA | Como analista, quero ter uma lista de legendas explicando os códigos presentes no banco de dados, para poder montar os gráficos com fluidez. | 1 |
