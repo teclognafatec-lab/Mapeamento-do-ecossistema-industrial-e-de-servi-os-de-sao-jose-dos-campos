@@ -40,7 +40,7 @@ Nosso projeto visa mapear o ecossistema industrial e de atividades econômicas d
 | 1 | ALTA | Como analista, quero visualizar os dados RAIS, para poder extrair informações sobre as atividades econômicas de São José dos Campos | 1 |
 | 2 | ALTA | Como analista, quero classificar as atividades econômicas, para identificar as presentes na região. | 1 |
 | 3 | ALTA | Como gestor público, quero visualizar a quantidade de empresas por atividade econômica, para identificar quais segmentos possuem maior representatividade no município. | 1 |
-| 4 | ALTA | Como gestor público, quero analisar a concentração das atividades econômicas por subsetor do IBGE, para identificar quais grupos produtivos possuem maior presença no município. | 2 |
+| 4 | ALTA | Como gestor público, quero analisar a concentração das atividades econômicas por subsetor do IBGE, para identificar quais grupos produtivos possuem maior presença no município. | 1 |
 | 5 | ALTA | Como gestor público, quero visualizar a distribuição geográfica de empresas por segmento industrial, para identificar a concentração das atividades econômicas na cidade. | 2 |
 | 6 | ALTA | Como gestor público, quero visualizar gráficos de diferentes setores produtivos, para identificar a participação de tais na economia regional. | 3 |
 | 7 | ALTA | Como gestor público, quero visualizar a quantidade de empregos por segmento industrial, para identificar quais atividades possuem maior impacto sobre o mercado de trabalho. | 3 |
