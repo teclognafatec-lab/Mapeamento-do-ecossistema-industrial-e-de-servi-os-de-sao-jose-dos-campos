@@ -1,6 +1,6 @@
 # Sprint 2 
 
-## 🎯 Objetivo do Sprint
+##  Objetivo do Sprint
 
 Essa sprint visa transformar os dados tratados em informações visuais (como gráficos e mapas) que mostrem os principais setores industriais na cidade de São José dos Campos. Com isso, é possível ter uma visão mais focada das atividades econômicas do município, possibilitando uma análise detalhada e pontual.
 
@@ -24,7 +24,6 @@ Nesta etapa serão utilizados os dados já tratados e organizados para construir
 
 | RANK | PRIORIDADE | USER STORY | SPRINT |
 |------|------------|------------|--------|
-| 4 | ALTA | Como gestor público, quero analisar a concentração das atividades econômicas por subsetor do IBGE, para identificar quais grupos produtivos possuem maior presença no município. | 2 |
 | 5 | ALTA | Como gestor público, quero visualizar a distribuição geográfica de empresas por segmento industrial, para identificar a concentração das atividades econômicas na cidade. | 2 |
 | 11 | MÉDIA | Como gestor público, quero comparar a quantidade de empresas e empregos entre os segmentos industriais, para identificar diferenças na relevância econômica das atividades. | 2 |
 | 12 | MÉDIA | Como gestor público, quero comparar a quantidade de empresas entre diferentes atividades econômicas, para identificar os segmentos com maior concentração empresarial. | 2 |
