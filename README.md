@@ -54,7 +54,7 @@ Nosso projeto visa mapear o ecossistema industrial e de atividades econômicas d
 | 15 | BAIXA | Como gestor público, quero analisar a distribuição dos empregos de acordo com o tamanho dos estabelecimentos, para avaliar quais portes empresariais concentram mais vínculos. | 2 |
 | 16 | BAIXA | Como analista, quero ter uma lista de legendas explicando os códigos presentes no banco de dados, para poder montar os gráficos com fluidez. | 1 |
 | 17 | BAIXA | Como analista, quero identificar os códigos de natureza jurídica existentes na base, para compreender os diferentes tipos de organizações representadas. | 1 |
-| 18 | BAIXA | Como analista, quero ter uma planilha com os principais dados sendo utilizados, para garantir um fluxo de trabalho organizado. | 2 |
+| 18 | BAIXA | Como analista, quero ter uma planilha constantemente atualizada com os principais dados sendo utilizados, para garantir um fluxo de trabalho organizado. | 2 |
 | 19 | BAIXA | Como gestor público, quero navegar entre diferentes visões dos dados no dashboard, para consultar informações de forma organizada. | 3 |
 | 20 | BAIXA | Como usuário, quero visualizar títulos, legendas e unidades de medida nos gráficos, para interpretar corretamente as informações apresentadas. | 3 |
 | 21 | BAIXA | Como gestor público, quero consultar a fonte dos dados apresentados no painel, para verificar a origem das informações utilizadas nas análises. | 3 |
