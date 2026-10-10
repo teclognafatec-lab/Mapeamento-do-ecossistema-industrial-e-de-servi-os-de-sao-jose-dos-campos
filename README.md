@@ -50,8 +50,8 @@ Nosso projeto visa mapear o ecossistema industrial e de atividades econômicas d
 | 11 | MÉDIA | Como gestor público, quero comparar a quantidade de empresas e empregos entre os segmentos industriais, para identificar diferenças na relevância econômica das atividades. | 2 |
 | 12 | MÉDIA | Como gestor público, quero comparar a quantidade de empresas entre diferentes atividades econômicas, para identificar os segmentos com maior concentração empresarial. | 2 |
 | 13 | MÉDIA | Como gestor público, quero filtrar os indicadores do painel por atividade econômica, para analisar segmentos específicos conforme minha necessidade. | 3 |
-| 14 | BAIXA | Como gestor público, quero analisar a quantidade de estabelecimentos por tamanho, para identificar a predominância de micro, pequenos, médios e grandes estabelecimentos no município. | 2 |
-| 15 | BAIXA | Como gestor público, quero analisar a distribuição dos empregos de acordo com o tamanho dos estabelecimentos, para avaliar quais portes empresariais concentram mais vínculos. | 2 |
+| 14 | MÉDIA| Como gestor público, quero visualizar a distribuição empregos por subsetor do IBGE, para identificar a concentração de vínculos ativos por atividade econômica. | 2 |
+| 15 | BAIXA |Como analista, quero separar os códigos CNAE por seção, para poder organizar e desenvolver gráficos mais específicos. | 2 |
 | 16 | BAIXA | Como analista, quero ter uma lista de legendas explicando os códigos presentes no banco de dados, para poder montar os gráficos com fluidez. | 1 |
 | 17 | BAIXA | Como analista, quero identificar os códigos de natureza jurídica existentes na base, para compreender os diferentes tipos de organizações representadas. | 1 |
 | 18 | BAIXA | Como analista, quero ter uma planilha constantemente atualizada com os principais dados sendo utilizados, para garantir um fluxo de trabalho organizado. | 2 |
