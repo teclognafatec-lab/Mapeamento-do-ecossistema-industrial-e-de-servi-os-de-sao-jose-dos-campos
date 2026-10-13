@@ -19,12 +19,11 @@ Nosso projeto visa mapear o ecossistema industrial e de atividades econômicas d
 | Função        | Nome    | LinkedIn | GitHub |
 | :-----------: | :------ | :------- | :----- |
 | Product Owner | Julia Mathias | [LinkedIn](http://www.linkedin.com/in/julia-mathias-50ab53261) | [GitHub](https://github.com/juliamths) |
-| Scrum Master  | Caio Silva | [LinkedIn]( https://www.linkedin.com/in/caio-silva-lucas-214204136?utm_source=share_via&utm_content=profile&utm_medium=member_android) | [GitHub]( hsDBSI) |
 | Team Member   | Isabela Karina | [LinkedIn](https://www.linkedin.com/in/isabela-karina-da-silva-pereira-de-carvalho-abb7302ba/) | [GitHub](https://github.com/iswabwwwla) |
 | Team Member   |Enzo Ferracioli | [LinkedIn](https://www.linkedin.com/in/enzo-ferracioli-918449427?utm_source=share_via&utm_content=profile&utm_medium=member_android) | [GitHub](https://github.com/EnzoFerracioli) |
 | Team Member   | Isabel Domanski | [LinkedIn](https://www.linkedin.com/in/isabel-domanski-222067420/) | [GitHub]( https://github.com/Isabel-Domanski) |
 | Team Member   | Matheus Lopes | [LinkedIn](https://www.linkedin.com/in/matheus-lopes-3785a8414/) | [GitHub](https://github.com/Matheusxxx477) |
-| Team Member   | Thais Ambrósio | [LinkedIn](https://www.linkedin.com/in/thais-ambr%C3%B3sio-3a3a581aa/) | [GitHub](https://github.com/thaishelenaambrosio1985-dev) |
+
 
 # Tecnologias utilizadas
   * Python
