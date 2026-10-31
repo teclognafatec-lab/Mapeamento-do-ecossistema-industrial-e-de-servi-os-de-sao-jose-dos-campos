@@ -44,6 +44,9 @@ Nesta etapa serão utilizados os dados já tratados e organizados para construir
 
 ##  Anexos / Evidências
 
-> MVP ainda não iniciado.
+As evidências e documentos utilizados durante o desenvolvimento da Sprint 2 estão disponíveis nos links abaixo:
 
-As evidências serão adicionadas durante o desenvolvimento da Sprint 2.
+- [Dados por Seção CNAE (US15)](https://docs.google.com/spreadsheets/d/19s8nyF_gzNLH-CMF2C6au3T17M6l8u4S/edit?usp=drive_link&ouid=114387859531047057259&rtpof=true&sd=true)
+- [Dados RAIS Limpos (US18)](https://docs.google.com/spreadsheets/d/1j5SlPAWKThnwLyuI0CdMfxzYR2wVbzS-/edit?usp=drive_link&ouid=114387859531047057259&rtpof=true&sd=true)
+- [Dashboard Sprint 2](COLE_O_LINK_AQUI)
+- [Relatórios US Sprint 2](COLE_O_LINK_AQUI)
