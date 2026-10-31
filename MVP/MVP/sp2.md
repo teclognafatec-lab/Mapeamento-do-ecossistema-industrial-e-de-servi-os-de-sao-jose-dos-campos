@@ -48,5 +48,5 @@ As evidências e documentos utilizados durante o desenvolvimento da Sprint 2 est
 
 - [Dados por Seção CNAE (US15)](https://docs.google.com/spreadsheets/d/19s8nyF_gzNLH-CMF2C6au3T17M6l8u4S/edit?usp=drive_link&ouid=114387859531047057259&rtpof=true&sd=true)
 - [Dados RAIS Limpos (US18)](https://docs.google.com/spreadsheets/d/1j5SlPAWKThnwLyuI0CdMfxzYR2wVbzS-/edit?usp=drive_link&ouid=114387859531047057259&rtpof=true&sd=true)
-- [Dashboard Sprint 2](Dados/MVP/dashboard_sprint_2.pbix)
-- [Relatórios US Sprint 2](COLE_O_LINK_AQUI)
+- [Dashboard Sprint 2]([Dados/MVP/dashboard_sprint_2.pbix](https://github.com/teclognafatec-lab/Mapeamento-do-ecossistema-industrial-e-de-servi-os-de-sao-jose-dos-campos/blob/main/MVP/Dados/dashboard%20sprint%202.pbix))
+- [Relatórios US Sprint 2]([COLE_O_LINK_AQUI](https://docs.google.com/document/d/1prUwnR2dqlAz4ayyi7jignyVax1U8OBY/edit?usp=drive_link&ouid=114387859531047057259&rtpof=true&sd=true))
