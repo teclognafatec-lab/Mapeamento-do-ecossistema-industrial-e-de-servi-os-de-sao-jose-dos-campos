@@ -49,4 +49,4 @@ As evidências e documentos utilizados durante o desenvolvimento da Sprint 2 est
 - [Dados por Seção CNAE (US15)](https://docs.google.com/spreadsheets/d/19s8nyF_gzNLH-CMF2C6au3T17M6l8u4S/edit?usp=drive_link&ouid=114387859531047057259&rtpof=true&sd=true)
 - [Dados RAIS Limpos (US18)](https://docs.google.com/spreadsheets/d/1j5SlPAWKThnwLyuI0CdMfxzYR2wVbzS-/edit?usp=drive_link&ouid=114387859531047057259&rtpof=true&sd=true)
 - [Dashboard Sprint 2](https://github.com/teclognafatec-lab/Mapeamento-do-ecossistema-industrial-e-de-servi-os-de-sao-jose-dos-campos/blob/main/MVP/Dados/dashboard%20sprint%202.pbix)
-- [Relatórios US Sprint 2](https://docs.google.com/document/d/1prUwnR2dqlAz4ayyi7jignyVax1U8OBY/edit?usp=drive_link&ouid=114387859531047057259&rtpof=true&sd=true)
+- [Relatórios US Sprint 2](https://centropaulasouza-my.sharepoint.com/:w:/r/personal/isabela_carvalho8_aluno_cps_sp_gov_br/_layouts/15/doc2.aspx?sourcedoc=%7B56023636-6ACF-49A7-8916-76F8D0F09044%7D&file=relat%C3%B3rios%20US%20sprint%202.docx&action=default&mobileredirect=true&wdPreviousSession=35de32ed-96fa-4880-be54-9a1ab50ae699&wdPreviousSessionSrc=AppHomeWeb&usid=7f8182dc-185a-45b3-843a-52d268ed0dcb)
