@@ -19,6 +19,7 @@ Nosso projeto visa mapear o ecossistema industrial e de atividades econômicas d
 | Função        | Nome    | LinkedIn | GitHub |
 | :-----------: | :------ | :------- | :----- |
 | Product Owner | Julia Mathias | [LinkedIn](http://www.linkedin.com/in/julia-mathias-50ab53261) | [GitHub](https://github.com/juliamths) |
+| Scrum Master | Calyto Santos | [LinkedIn](http://www.linkedin.com/in/calyto-santos-1275bb1a5) | [GitHub](https://github.com/calyto-santos) |
 | Team Member   | Isabela Karina | [LinkedIn](https://www.linkedin.com/in/isabela-karina-da-silva-pereira-de-carvalho-abb7302ba/) | [GitHub](https://github.com/iswabwwwla) |
 | Team Member   |Enzo Ferracioli | [LinkedIn](https://www.linkedin.com/in/enzo-ferracioli-918449427?utm_source=share_via&utm_content=profile&utm_medium=member_android) | [GitHub](https://github.com/EnzoFerracioli) |
 | Team Member   | Isabel Domanski | [LinkedIn](https://www.linkedin.com/in/isabel-domanski-222067420/) | [GitHub]( https://github.com/Isabel-Domanski) |
