@@ -47,7 +47,7 @@ Essa sprint tem como objetivo a consolidação dos dados processados nas última
 - [Relatório da sprint 1](https://github.com/teclognafatec-lab/Mapeamento-do-ecossistema-industrial-e-de-servi-os-de-sao-jose-dos-campos/blob/main/Documentos/Relat%C3%B3rio%20e%20Manual%20de%20limpeza%20da%20base%20RAIS.pdf)
 - [Relatório da sprint 2](https://github.com/teclognafatec-lab/Mapeamento-do-ecossistema-industrial-e-de-servi-os-de-sao-jose-dos-campos/blob/main/MVP/Dados/relat%C3%B3rios%20US%20sprint%202.docx.pdf)
 - [Relatório final](pdf)
-- [Cronograma da Equipe](pdf)
+- [Cronograma da Equipe](https://github.com/teclognafatec-lab/Mapeamento-do-ecossistema-industrial-e-de-servi-os-de-sao-jose-dos-campos/blob/main/Documentos/cronograma%20sprint%203.pdf)
   
 
 
