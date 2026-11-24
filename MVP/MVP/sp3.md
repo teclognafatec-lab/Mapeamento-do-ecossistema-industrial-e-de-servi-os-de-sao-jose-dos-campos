@@ -49,5 +49,8 @@ Essa sprint tem como objetivo a consolidação dos dados processados nas última
 - [Relatório final](pdf)
 - [Cronograma da Equipe](https://github.com/teclognafatec-lab/Mapeamento-do-ecossistema-industrial-e-de-servi-os-de-sao-jose-dos-campos/blob/main/Documentos/cronograma%20sprint%203.pdf)
   
-
+ Registros do desenvolvimento!
+  <img width="1200" height="1600" alt="WhatsApp Image 2026-11-23 at 21 32 51" src="https://github.com/user-attachments/assets/45a38fd1-368b-43ee-a4b3-ac76c74e5e89" /> PO e Scrum master
+  <img width="1600" height="900" alt="WhatsApp Image 2026-11-23 at 21 32 52" src="https://github.com/user-attachments/assets/148af789-0ca3-47c7-a7e7-147e6206330e" /> Reuniaoa sobre a api
+  <img width="1200" height="1600" alt="WhatsApp Image 2026-11-23 at 21 38 04" src="https://github.com/user-attachments/assets/dd63882a-7ecb-4091-9081-815a4100c551" />
 
